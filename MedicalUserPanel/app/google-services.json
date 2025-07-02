@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "476005093270",
+    "firebase_url": "https://cardekho-8f48f-default-rtdb.firebaseio.com",
+    "project_id": "cardekho-8f48f",
+    "storage_bucket": "cardekho-8f48f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476005093270:android:e595e604ccc295628d97b7",
+        "android_client_info": {
+          "package_name": "com.example.foundmymedicine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9aGuYnWKRgb32g1EWssSCw7Lb6EH7nY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476005093270:android:e23789bca60927c88d97b7",
+        "android_client_info": {
+          "package_name": "com.example.medicalstoreuser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9aGuYnWKRgb32g1EWssSCw7Lb6EH7nY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
