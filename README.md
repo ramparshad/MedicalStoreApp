@@ -8,7 +8,7 @@ A complete **Medical Store Management System** with fully functional **User Pane
 - 🔐 Firebase (Authentication) 
 - ☁️ Hosted on PythonAnywhere
 
-## Also Use my
+## Also Use my Compose
 ```
 
 ```
