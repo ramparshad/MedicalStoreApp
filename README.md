@@ -1,1 +1,2 @@
-## ✨ FullStack App
+# 🏥 Medical Store App - Full Stack Application
+### 
