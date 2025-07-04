@@ -7,3 +7,9 @@ A complete **Medical Store Management System** with fully functional **User Pane
 - 🗃️ SQLite3, Room (Database)
 - 🔐 Firebase (Authentication) 
 - ☁️ Hosted on PythonAnywhere
+
+
+
+
+
+ Star ⭐ the repo if you found it helpful!
