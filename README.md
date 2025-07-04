@@ -10,7 +10,7 @@ A complete **Medical Store Management System** with fully functional **User Pane
 
 ## Also you can Use my own ComposeXLibrary
 ```
-
+	        implementation 'com.github.ramparshad:ComposeXLibrary:1.9.2'
 ```
 
 
