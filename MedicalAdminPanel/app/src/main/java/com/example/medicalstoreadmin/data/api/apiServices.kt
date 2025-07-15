@@ -89,7 +89,7 @@ interface apiServices {
     ): Response<GenericResponse>?
 }
 
-// Generic response data class to handle the Flask  
+// Generic response data class to handle the   
 data class GenericResponse(
     val status: Int,
     val message: String
