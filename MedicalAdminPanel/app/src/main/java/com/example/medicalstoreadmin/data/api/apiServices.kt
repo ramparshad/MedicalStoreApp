@@ -88,8 +88,7 @@ interface apiServices {
         @Path("orderID") OrderId: String
     ): Response<GenericResponse>?
 }
-
-//          
+          
 data class GenericResponse(
     val status: Int,
     val message: String
