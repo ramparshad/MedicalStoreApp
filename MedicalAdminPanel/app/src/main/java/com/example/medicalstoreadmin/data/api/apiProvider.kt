@@ -8,7 +8,8 @@ import retrofit2.converter.gson.GsonConverterFactory
 object ApiProvider {
 
     fun providerApi() = Retrofit
-        .Builder().baseUrl(BASE_URL).client(OkHttpClient.Builder().build())
+        .Builder()
+        .baseUrl(BASE_URL).client(OkHttpClient.Builder().build())
         .addConverterFactory(GsonConverterFactory.create()).build()
         .create(apiServices::class.java)
 
