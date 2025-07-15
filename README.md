@@ -4,7 +4,7 @@ A complete **Medical Store Management System** with fully functional **User Pane
 
 - 🧠 Jetpack Compose (Frontend - Android)
 - 🐍 Flask (Backend - REST API)
-- 🗃️ SQLite3, Room (Da
+- 🗃️ SQLite3, Room (D
 - 🔐 Firebase (Authentication) 
 - ☁️ Hosted on PythonAnywhere
 
