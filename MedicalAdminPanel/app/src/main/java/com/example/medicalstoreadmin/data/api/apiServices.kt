@@ -89,7 +89,7 @@ interface apiServices {
     ): Response<GenericResponse>?
 }
 
-// Generic response data class to handle    
+// Generic response data class to     
 data class GenericResponse(
     val status: Int,
     val message: String
