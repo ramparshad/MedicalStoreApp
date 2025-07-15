@@ -72,7 +72,6 @@ interface apiServices {
         @Field("stock") stock : String
     ) : Response<UpdateProductResponse>?
 
-    //   
     @DELETE("deleteAllUsers")
     suspend fun deleteAllUsers(): Response<GenericResponse>?
 
