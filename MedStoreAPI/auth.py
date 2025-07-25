@@ -5,7 +5,7 @@ def user_auth(email, password):
     cursor = conn.cursor()
 
     cursor.execute('SELECT * FROM Users WHERE email = ? AND password = ?', (email, password))
-    user = cursor.fetchone() # fetch the whole row details
+    user = cursor.fetchone() # fetch whole row details
 
     conn.close()
 
@@ -18,7 +18,7 @@ def order_auth(product_id):
     cursor = conn.cursor()
 
     cursor.execute('SELECT * FROM Product_table WHERE product_id =?', (product_id,))
-    order = cursor.fetchone() # it will fetch the whole row details
+    order = cursor.fetchone() # fetch whole row details
 
     conn.close()
 
