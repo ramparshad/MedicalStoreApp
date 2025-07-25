@@ -5,7 +5,7 @@ def user_auth(email, password):
     cursor = conn.cursor()
 
     cursor.execute('SELECT * FROM Users WHERE email = ? AND password = ?', (email, password))
-    user = cursor.fetchone() # it will fetch the whole row details
+    user = cursor.fetchone() # fetch the whole row details
 
     conn.close()
 
