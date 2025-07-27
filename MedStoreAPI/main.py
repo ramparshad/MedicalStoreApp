@@ -10,7 +10,7 @@ import sqlite3
 app = Flask(__name__)
 
 
-# def is like fun in kotlin
+# def is like fun in 
 @app.route('/',methods=['GET'])
 def home():
     return "Hello, World!"
