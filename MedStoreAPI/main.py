@@ -9,8 +9,6 @@ import sqlite3
 # Creating an instance called app
 app = Flask(__name__)
 
-
-# 
 @app.route('/',methods=['GET'])
 def home():
     return "Hello, World!"
