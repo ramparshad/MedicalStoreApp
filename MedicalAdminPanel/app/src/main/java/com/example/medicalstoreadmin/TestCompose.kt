@@ -102,6 +102,7 @@ fun MyApp(viewModel: AppViewModel = hiltViewModel() , userID : String? = "" , na
     }
 }
 
+// for preview 
 @Preview(showBackground = true, showSystemUi = true)
 @Composable
 fun test(modifier: Modifier = Modifier) {
