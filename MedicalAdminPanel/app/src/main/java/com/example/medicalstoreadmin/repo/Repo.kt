@@ -155,7 +155,7 @@ class Repo {
         }
     }
 
-    fun deleteAllUsersRepo(): Flow<State<Response<GenericResponse>?>> = flow {
+    fun deleteAllUsersRepo(): Flow<State<<GenericResponse>?>> = flow {
         emit(State.Loading)
         try {
             val response = ApiProvider.providerApi().deleteAllUsers()
