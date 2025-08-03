@@ -8,7 +8,7 @@ import com.example.medicalstoreadmin.State
 import com.example.medicalstoreadmin.data.api.ApiProvider
 import com.example.medicalstoreadmin.data.api.GenericResponse
 import com.example.medicalstoreadmin.data.response.AddProductResponse
-import com.example.medicalstoreadmin.data.response.UpdateProductResponse
+import com.example..data.response.UpdateProductResponse
 import com.example.medicalstoreadmin.data.response.deleteSpecificUserResponse
 import com.example.medicalstoreadmin.data.response.getAllOrdersResponse
 import com.example.medicalstoreadmin.data.response.getAllProductsResponse
