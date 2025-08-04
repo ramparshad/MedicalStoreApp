@@ -13,6 +13,6 @@ object DataModule {
 
     @Singleton
     @Provides
-    fun provideRepository() = ()
+    fun provideRepository() = Repo()
 }
 
