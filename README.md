@@ -8,7 +8,7 @@ A complete **Medical Store Management System** with fully functional **User Pane
 - 🔐 Firebase (Authentication) 
 - ☁️ Hosted on PythonAnywhere
 
-## Also you can Use my own 
+## Also you can Use my own ComposeXLibrary
 ```
 	        implementation 'com.github.ramparshad:ComposeXLibrary:1.9.2'
 ```
