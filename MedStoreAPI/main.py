@@ -6,7 +6,7 @@ from auth import user_auth
 from db.updateOpertaion import updateUserAllFields , updateProductAllFields , updateOrderAllFields
 import sqlite3
 
-# Creating an 
+# Creating an instance called app
 app = Flask(__name__)
 
 @app.route('/',methods=['GET'])
