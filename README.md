@@ -14,4 +14,4 @@ A complete **Medical Store Management System** with fully functional **User Pane
 ```
 
 
-Pl Star ⭐ the repo if you found it helpful!!
+Plea Star ⭐ the repo if you found it helpful!!
