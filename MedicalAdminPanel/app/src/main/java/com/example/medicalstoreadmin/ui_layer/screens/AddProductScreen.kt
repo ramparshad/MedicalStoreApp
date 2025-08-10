@@ -29,7 +29,7 @@ import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.navigation.NavController
 import com.example.medicalstoreadmin.AppViewModel
 
-@Compos
+@Composa
 fun AddProductScreenUI(navController: NavController ,viewModel: AppViewModel = hiltViewModel()) {
 
     val state = viewModel.addProductResponse.collectAsState()
