@@ -1,4 +1,4 @@
-# 🏥 Medical Store App - Full Stack App
+# 🏥 Medical Store App - Full Stack Appl
 
 A complete **Medical Store Management System** with fully functional **User Panel** and **Admin Panel**, built using:
 
