@@ -7,7 +7,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 object ApiProvider {
 
-    fun providerApi() = Retrofit.Build()
+    fun providerApi() = Retrofit.Builde()
         .baseUrl(BASE_URL)
         .client(
             OkHttpClient.Builder()
