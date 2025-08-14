@@ -7,7 +7,7 @@ import dagger.hilt.InstallIn
 import dagger.hilt.components.SingletonComponent
 import javax.inject.Singleton
 
-@Mo
+@Mod
 @InstallIn(SingletonComponent::class)
 object DataModule {
 
