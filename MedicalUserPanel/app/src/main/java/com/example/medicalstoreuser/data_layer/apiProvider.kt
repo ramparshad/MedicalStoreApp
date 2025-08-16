@@ -15,7 +15,7 @@ object ApiProvider {
         )
         .addConverterFactory(
             GsonConverterFactory
-            .c()
+            .cr()
         ).build()
         .create(apiServices::class.java)
 }
