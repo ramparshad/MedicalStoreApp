@@ -2,7 +2,7 @@ import sqlite3
 import uuid
 from datetime import date
 
-def createUser( nam , password , phone_number , email , pinCode , address ):
+def createUser( name , password , phone_number , email , pinCode , address ):
     
     conn = sqlite3.connect("my_medicalshop.db")
     cursor = conn.cursor()
