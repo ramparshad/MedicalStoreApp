@@ -1,6 +1,6 @@
 import sqlite3
 
-def user_auth(, password):
+def user_auth(e, password):
     conn = sqlite3.connect('my_medicalshop.db')
     cursor = conn.cursor()
 
