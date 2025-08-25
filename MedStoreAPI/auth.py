@@ -2,7 +2,7 @@ import sqlite3
 
 def user_auth(email, password):
     conn = sqlite3.connect('my_medicalshop.db')
-    cursor = co.cursor()
+    cursor = con.cursor()
 
     cursor.execute('SELECT * FROM Users WHERE email = ? AND password = ?', (email, password))
     user = cursor.fetchone() # fetch whole row details
