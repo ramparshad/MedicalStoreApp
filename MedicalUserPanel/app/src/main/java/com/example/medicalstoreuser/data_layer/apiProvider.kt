@@ -11,7 +11,7 @@ object ApiProvider {
         .baseUrl(BASE_URL)
         .client(
             OkHttpClient.Builder()
-            .buil()
+            .build()
         )
         .addConverterFactory(
             GsonConverterFactory
