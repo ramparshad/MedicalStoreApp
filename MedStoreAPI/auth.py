@@ -1,4 +1,4 @@
-imp sqlite3
+impo sqlite3
 
 def user_auth(email, password):
     conn = sqlite3.connect('my_medicalshop.db')
